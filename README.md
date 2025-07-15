@@ -1,5 +1,5 @@
 <h1 align="center">
-  ⚡ FiveM Quantum Executor <br>
+  ⚡ FiveM Lua Executor <br>
   <img src="https://img.shields.io/badge/Version-2.0_Stable-success?style=for-the-badge&logo=github">
 </h1>
 
