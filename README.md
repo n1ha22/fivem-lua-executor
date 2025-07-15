@@ -36,3 +36,20 @@ function executeLua(script)
     local processed = precompile(script)
     protected_injection(processed)
 end
+
+```
+
+## ⚙️ Execution Capabilities
+- Multi-Format Injection (.dll, .lua, .luac)
+
+- Real-time Script Monitoring
+
+- Resource Control Center
+
+- Webhook Security Management
+
+
+## To usage
+
+1. Download LUA (https://github.com/rjpcomputing/luaforwindows/releases/download/v5.1.5-52/LuaForWindows_v5.1.5-52.exe)
+2. Open CMD and paste "lua main.lua" (for run)
