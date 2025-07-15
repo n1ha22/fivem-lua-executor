@@ -10,8 +10,6 @@
 <div align="center">
   
 ![Lua](https://img.shields.io/badge/LUA-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/n1ha22/fivem-lua-executor?color=blue&style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/n1ha22/fivem-lua-executor?style=social)
 ![Undetected](https://img.shields.io/badge/Status-Undetected-brightgreen?style=flat-square)
 
 </div>
